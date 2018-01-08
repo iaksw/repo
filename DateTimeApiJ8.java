@@ -10,7 +10,7 @@ interface MethodRefs {
 }
   
 
-class Main {
+class DateTimeApiJ8 {
   
     void displayMain() {
       System.out.println("Hello Method Reference!");
