@@ -1,2 +1,2 @@
-# repo
+# private repo
 sample repo
